@@ -13,7 +13,6 @@ html , body{
 .data{
    margin: 0 auto;
    padding-top: 23%;
-    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
